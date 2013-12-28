@@ -19,6 +19,21 @@ body {
 	text-align: center;
 }
 
+.item {
+	float: left;
+	clear: none;
+	margin: 0 3px 14px 3px;
+	padding: 0 5px;
+			
+	font-size: 30px;
+	line-height: 1px;
+	text-align: center;
+	vertical-align: middle;
+		
+	color: black;	
+	background: rgb(128, 128, 128);
+}
+
 #footer {
 	text-align: center;
 }
