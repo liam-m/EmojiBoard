@@ -2,6 +2,27 @@
 	font-family: "Helvetica Neue", sans-serif;
 }
 
+a {
+	color: rgb(64, 128, 255);
+	text-decoration: none;
+}
+
+body {
+	width: 100%;
+}
+
+#header {
+	text-align: center;
+}
+
+#info {
+	text-align: center;
+}
+
+#footer {
+	text-align: center;
+}
+
 /*********************************************/
 /*  Swipe                                    */
 /*********************************************/
